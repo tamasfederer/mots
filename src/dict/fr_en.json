@@ -1,0 +1,5001 @@
+[
+{
+	"id": "fr_en_1",
+	"from": "comme",
+	"to": "as"
+},
+{
+	"id": "fr_en_2",
+	"from": "je",
+	"to": "I"
+},
+{
+	"id": "fr_en_3",
+	"from": "son",
+	"to": "his"
+},
+{
+	"id": "fr_en_4",
+	"from": "que",
+	"to": "that"
+},
+{
+	"id": "fr_en_5",
+	"from": "il",
+	"to": "he"
+},
+{
+	"id": "fr_en_6",
+	"from": "était",
+	"to": "was"
+},
+{
+	"id": "fr_en_7",
+	"from": "pour",
+	"to": "for"
+},
+{
+	"id": "fr_en_8",
+	"from": "sur",
+	"to": "on"
+},
+{
+	"id": "fr_en_9",
+	"from": "sont",
+	"to": "are"
+},
+{
+	"id": "fr_en_10",
+	"from": "avec",
+	"to": "with"
+},
+{
+	"id": "fr_en_11",
+	"from": "ils",
+	"to": "they"
+},
+{
+	"id": "fr_en_12",
+	"from": "être",
+	"to": "be"
+},
+{
+	"id": "fr_en_13",
+	"from": "à",
+	"to": "at"
+},
+{
+	"id": "fr_en_14",
+	"from": "un",
+	"to": "one"
+},
+{
+	"id": "fr_en_15",
+	"from": "avoir",
+	"to": "have"
+},
+{
+	"id": "fr_en_16",
+	"from": "ce",
+	"to": "this"
+},
+{
+	"id": "fr_en_17",
+	"from": "à partir de",
+	"to": "from"
+},
+{
+	"id": "fr_en_18",
+	"from": "par",
+	"to": "by"
+},
+{
+	"id": "fr_en_19",
+	"from": "chaud",
+	"to": "hot"
+},
+{
+	"id": "fr_en_20",
+	"from": "mot",
+	"to": "word"
+},
+{
+	"id": "fr_en_21",
+	"from": "mais",
+	"to": "but"
+},
+{
+	"id": "fr_en_22",
+	"from": "que",
+	"to": "what"
+},
+{
+	"id": "fr_en_23",
+	"from": "certains",
+	"to": "some"
+},
+{
+	"id": "fr_en_24",
+	"from": "est",
+	"to": "is"
+},
+{
+	"id": "fr_en_25",
+	"from": "il",
+	"to": "it"
+},
+{
+	"id": "fr_en_26",
+	"from": "vous",
+	"to": "you"
+},
+{
+	"id": "fr_en_27",
+	"from": "ou",
+	"to": "or"
+},
+{
+	"id": "fr_en_28",
+	"from": "eu",
+	"to": "had"
+},
+{
+	"id": "fr_en_29",
+	"from": "la",
+	"to": "the"
+},
+{
+	"id": "fr_en_30",
+	"from": "de",
+	"to": "of"
+},
+{
+	"id": "fr_en_31",
+	"from": "à",
+	"to": "to"
+},
+{
+	"id": "fr_en_32",
+	"from": "et",
+	"to": "and"
+},
+{
+	"id": "fr_en_33",
+	"from": "un",
+	"to": "a"
+},
+{
+	"id": "fr_en_34",
+	"from": "dans",
+	"to": "in"
+},
+{
+	"id": "fr_en_35",
+	"from": "nous",
+	"to": "we"
+},
+{
+	"id": "fr_en_36",
+	"from": "boîte",
+	"to": "can"
+},
+{
+	"id": "fr_en_37",
+	"from": "dehors",
+	"to": "out"
+},
+{
+	"id": "fr_en_38",
+	"from": "autre",
+	"to": "other"
+},
+{
+	"id": "fr_en_39",
+	"from": "étaient",
+	"to": "were"
+},
+{
+	"id": "fr_en_40",
+	"from": "qui",
+	"to": "which"
+},
+{
+	"id": "fr_en_41",
+	"from": "faire",
+	"to": "do"
+},
+{
+	"id": "fr_en_42",
+	"from": "leur",
+	"to": "their"
+},
+{
+	"id": "fr_en_43",
+	"from": "temps",
+	"to": "time"
+},
+{
+	"id": "fr_en_44",
+	"from": "si",
+	"to": "if"
+},
+{
+	"id": "fr_en_45",
+	"from": "volonté",
+	"to": "will"
+},
+{
+	"id": "fr_en_46",
+	"from": "comment",
+	"to": "how"
+},
+{
+	"id": "fr_en_47",
+	"from": "dit",
+	"to": "said"
+},
+{
+	"id": "fr_en_48",
+	"from": "un",
+	"to": "an"
+},
+{
+	"id": "fr_en_49",
+	"from": "chaque",
+	"to": "each"
+},
+{
+	"id": "fr_en_50",
+	"from": "dire",
+	"to": "tell"
+},
+{
+	"id": "fr_en_51",
+	"from": "ne",
+	"to": "does"
+},
+{
+	"id": "fr_en_52",
+	"from": "ensemble",
+	"to": "set"
+},
+{
+	"id": "fr_en_53",
+	"from": "trois",
+	"to": "three"
+},
+{
+	"id": "fr_en_54",
+	"from": "vouloir",
+	"to": "want"
+},
+{
+	"id": "fr_en_55",
+	"from": "air",
+	"to": "air"
+},
+{
+	"id": "fr_en_56",
+	"from": "bien",
+	"to": "well"
+},
+{
+	"id": "fr_en_57",
+	"from": "aussi",
+	"to": "also"
+},
+{
+	"id": "fr_en_58",
+	"from": "jouer",
+	"to": "play"
+},
+{
+	"id": "fr_en_59",
+	"from": "petit",
+	"to": "small"
+},
+{
+	"id": "fr_en_60",
+	"from": "fin",
+	"to": "end"
+},
+{
+	"id": "fr_en_61",
+	"from": "mettre",
+	"to": "put"
+},
+{
+	"id": "fr_en_62",
+	"from": "maison",
+	"to": "home"
+},
+{
+	"id": "fr_en_63",
+	"from": "lire",
+	"to": "read"
+},
+{
+	"id": "fr_en_64",
+	"from": "main",
+	"to": "hand"
+},
+{
+	"id": "fr_en_65",
+	"from": "port",
+	"to": "port"
+},
+{
+	"id": "fr_en_66",
+	"from": "grand",
+	"to": "large"
+},
+{
+	"id": "fr_en_67",
+	"from": "épeler",
+	"to": "spell"
+},
+{
+	"id": "fr_en_68",
+	"from": "ajouter",
+	"to": "add"
+},
+{
+	"id": "fr_en_69",
+	"from": "même",
+	"to": "even"
+},
+{
+	"id": "fr_en_70",
+	"from": "terre",
+	"to": "land"
+},
+{
+	"id": "fr_en_71",
+	"from": "ici",
+	"to": "here"
+},
+{
+	"id": "fr_en_72",
+	"from": "il faut",
+	"to": "must"
+},
+{
+	"id": "fr_en_73",
+	"from": "grand",
+	"to": "big"
+},
+{
+	"id": "fr_en_74",
+	"from": "haut",
+	"to": "high"
+},
+{
+	"id": "fr_en_75",
+	"from": "tel",
+	"to": "such"
+},
+{
+	"id": "fr_en_76",
+	"from": "suivre",
+	"to": "follow"
+},
+{
+	"id": "fr_en_77",
+	"from": "acte",
+	"to": "act"
+},
+{
+	"id": "fr_en_78",
+	"from": "pourquoi",
+	"to": "why"
+},
+{
+	"id": "fr_en_79",
+	"from": "interroger",
+	"to": "ask"
+},
+{
+	"id": "fr_en_80",
+	"from": "hommes",
+	"to": "men"
+},
+{
+	"id": "fr_en_81",
+	"from": "changement",
+	"to": "change"
+},
+{
+	"id": "fr_en_82",
+	"from": "est allé",
+	"to": "went"
+},
+{
+	"id": "fr_en_83",
+	"from": "lumière",
+	"to": "light"
+},
+{
+	"id": "fr_en_84",
+	"from": "genre",
+	"to": "kind"
+},
+{
+	"id": "fr_en_85",
+	"from": "de",
+	"to": "off"
+},
+{
+	"id": "fr_en_86",
+	"from": "besoin",
+	"to": "need"
+},
+{
+	"id": "fr_en_87",
+	"from": "maison",
+	"to": "house"
+},
+{
+	"id": "fr_en_88",
+	"from": "image",
+	"to": "picture"
+},
+{
+	"id": "fr_en_89",
+	"from": "essayer",
+	"to": "try"
+},
+{
+	"id": "fr_en_90",
+	"from": "nous",
+	"to": "us"
+},
+{
+	"id": "fr_en_91",
+	"from": "encore",
+	"to": "again"
+},
+{
+	"id": "fr_en_92",
+	"from": "animal",
+	"to": "animal"
+},
+{
+	"id": "fr_en_93",
+	"from": "point",
+	"to": "point"
+},
+{
+	"id": "fr_en_94",
+	"from": "mère",
+	"to": "mother"
+},
+{
+	"id": "fr_en_95",
+	"from": "monde",
+	"to": "world"
+},
+{
+	"id": "fr_en_96",
+	"from": "près de",
+	"to": "near"
+},
+{
+	"id": "fr_en_97",
+	"from": "construire",
+	"to": "build"
+},
+{
+	"id": "fr_en_98",
+	"from": "soi",
+	"to": "self"
+},
+{
+	"id": "fr_en_99",
+	"from": "terre",
+	"to": "earth"
+},
+{
+	"id": "fr_en_100",
+	"from": "père",
+	"to": "father"
+},
+{
+	"id": "fr_en_101",
+	"from": "tout",
+	"to": "any"
+},
+{
+	"id": "fr_en_102",
+	"from": "nouveau",
+	"to": "new"
+},
+{
+	"id": "fr_en_103",
+	"from": "travail",
+	"to": "work"
+},
+{
+	"id": "fr_en_104",
+	"from": "partie",
+	"to": "part"
+},
+{
+	"id": "fr_en_105",
+	"from": "prendre",
+	"to": "take"
+},
+{
+	"id": "fr_en_106",
+	"from": "obtenir",
+	"to": "get"
+},
+{
+	"id": "fr_en_107",
+	"from": "lieu",
+	"to": "place"
+},
+{
+	"id": "fr_en_108",
+	"from": "fabriqué",
+	"to": "made"
+},
+{
+	"id": "fr_en_109",
+	"from": "vivre",
+	"to": "live"
+},
+{
+	"id": "fr_en_110",
+	"from": "où",
+	"to": "where"
+},
+{
+	"id": "fr_en_111",
+	"from": "après",
+	"to": "after"
+},
+{
+	"id": "fr_en_112",
+	"from": "arrière",
+	"to": "back"
+},
+{
+	"id": "fr_en_113",
+	"from": "peu",
+	"to": "little"
+},
+{
+	"id": "fr_en_114",
+	"from": "seulement",
+	"to": "only"
+},
+{
+	"id": "fr_en_115",
+	"from": "tour",
+	"to": "round"
+},
+{
+	"id": "fr_en_116",
+	"from": "homme",
+	"to": "man"
+},
+{
+	"id": "fr_en_117",
+	"from": "année",
+	"to": "year"
+},
+{
+	"id": "fr_en_118",
+	"from": "est venu",
+	"to": "came"
+},
+{
+	"id": "fr_en_119",
+	"from": "montrer",
+	"to": "show"
+},
+{
+	"id": "fr_en_120",
+	"from": "tous",
+	"to": "every"
+},
+{
+	"id": "fr_en_121",
+	"from": "bon",
+	"to": "good"
+},
+{
+	"id": "fr_en_122",
+	"from": "moi",
+	"to": "me"
+},
+{
+	"id": "fr_en_123",
+	"from": "donner",
+	"to": "give"
+},
+{
+	"id": "fr_en_124",
+	"from": "notre",
+	"to": "our"
+},
+{
+	"id": "fr_en_125",
+	"from": "sous",
+	"to": "under"
+},
+{
+	"id": "fr_en_126",
+	"from": "nom",
+	"to": "name"
+},
+{
+	"id": "fr_en_127",
+	"from": "très",
+	"to": "very"
+},
+{
+	"id": "fr_en_128",
+	"from": "par",
+	"to": "through"
+},
+{
+	"id": "fr_en_129",
+	"from": "juste",
+	"to": "just"
+},
+{
+	"id": "fr_en_130",
+	"from": "forme",
+	"to": "form"
+},
+{
+	"id": "fr_en_131",
+	"from": "phrase",
+	"to": "sentence"
+},
+{
+	"id": "fr_en_132",
+	"from": "grand",
+	"to": "great"
+},
+{
+	"id": "fr_en_133",
+	"from": "penser",
+	"to": "think"
+},
+{
+	"id": "fr_en_134",
+	"from": "dire",
+	"to": "say"
+},
+{
+	"id": "fr_en_135",
+	"from": "aider",
+	"to": "help"
+},
+{
+	"id": "fr_en_136",
+	"from": "faible",
+	"to": "low"
+},
+{
+	"id": "fr_en_137",
+	"from": "ligne",
+	"to": "line"
+},
+{
+	"id": "fr_en_138",
+	"from": "différer",
+	"to": "differ"
+},
+{
+	"id": "fr_en_139",
+	"from": "tour",
+	"to": "turn"
+},
+{
+	"id": "fr_en_140",
+	"from": "la cause",
+	"to": "cause"
+},
+{
+	"id": "fr_en_141",
+	"from": "beaucoup",
+	"to": "much"
+},
+{
+	"id": "fr_en_142",
+	"from": "signifier",
+	"to": "mean"
+},
+{
+	"id": "fr_en_143",
+	"from": "avant",
+	"to": "before"
+},
+{
+	"id": "fr_en_144",
+	"from": "déménagement",
+	"to": "move"
+},
+{
+	"id": "fr_en_145",
+	"from": "droit",
+	"to": "right"
+},
+{
+	"id": "fr_en_146",
+	"from": "garçon",
+	"to": "boy"
+},
+{
+	"id": "fr_en_147",
+	"from": "vieux",
+	"to": "old"
+},
+{
+	"id": "fr_en_148",
+	"from": "trop",
+	"to": "too"
+},
+{
+	"id": "fr_en_149",
+	"from": "même",
+	"to": "same"
+},
+{
+	"id": "fr_en_150",
+	"from": "elle",
+	"to": "she"
+},
+{
+	"id": "fr_en_151",
+	"from": "tous",
+	"to": "all"
+},
+{
+	"id": "fr_en_152",
+	"from": "là",
+	"to": "there"
+},
+{
+	"id": "fr_en_153",
+	"from": "quand",
+	"to": "when"
+},
+{
+	"id": "fr_en_154",
+	"from": "jusqu’à",
+	"to": "up"
+},
+{
+	"id": "fr_en_155",
+	"from": "utiliser",
+	"to": "use"
+},
+{
+	"id": "fr_en_156",
+	"from": "votre",
+	"to": "your"
+},
+{
+	"id": "fr_en_157",
+	"from": "manière",
+	"to": "way"
+},
+{
+	"id": "fr_en_158",
+	"from": "sur",
+	"to": "about"
+},
+{
+	"id": "fr_en_159",
+	"from": "beaucoup",
+	"to": "many"
+},
+{
+	"id": "fr_en_160",
+	"from": "puis",
+	"to": "then"
+},
+{
+	"id": "fr_en_161",
+	"from": "les",
+	"to": "them"
+},
+{
+	"id": "fr_en_162",
+	"from": "écrire",
+	"to": "write"
+},
+{
+	"id": "fr_en_163",
+	"from": "voudrais",
+	"to": "would"
+},
+{
+	"id": "fr_en_164",
+	"from": "comme",
+	"to": "like"
+},
+{
+	"id": "fr_en_165",
+	"from": "si",
+	"to": "so"
+},
+{
+	"id": "fr_en_166",
+	"from": "ces",
+	"to": "these"
+},
+{
+	"id": "fr_en_167",
+	"from": "son",
+	"to": "her"
+},
+{
+	"id": "fr_en_168",
+	"from": "long",
+	"to": "long"
+},
+{
+	"id": "fr_en_169",
+	"from": "faire",
+	"to": "make"
+},
+{
+	"id": "fr_en_170",
+	"from": "chose",
+	"to": "thing"
+},
+{
+	"id": "fr_en_171",
+	"from": "voir",
+	"to": "see"
+},
+{
+	"id": "fr_en_172",
+	"from": "lui",
+	"to": "him"
+},
+{
+	"id": "fr_en_173",
+	"from": "deux",
+	"to": "two"
+},
+{
+	"id": "fr_en_174",
+	"from": "a",
+	"to": "has"
+},
+{
+	"id": "fr_en_175",
+	"from": "regarder",
+	"to": "look"
+},
+{
+	"id": "fr_en_176",
+	"from": "plus",
+	"to": "more"
+},
+{
+	"id": "fr_en_177",
+	"from": "jour",
+	"to": "day"
+},
+{
+	"id": "fr_en_178",
+	"from": "pourrait",
+	"to": "could"
+},
+{
+	"id": "fr_en_179",
+	"from": "aller",
+	"to": "go"
+},
+{
+	"id": "fr_en_180",
+	"from": "venir",
+	"to": "come"
+},
+{
+	"id": "fr_en_181",
+	"from": "fait",
+	"to": "did"
+},
+{
+	"id": "fr_en_182",
+	"from": "nombre",
+	"to": "number"
+},
+{
+	"id": "fr_en_183",
+	"from": "son",
+	"to": "sound"
+},
+{
+	"id": "fr_en_184",
+	"from": "aucun",
+	"to": "no"
+},
+{
+	"id": "fr_en_185",
+	"from": "plus",
+	"to": "most"
+},
+{
+	"id": "fr_en_186",
+	"from": "personnes",
+	"to": "people"
+},
+{
+	"id": "fr_en_187",
+	"from": "ma",
+	"to": "my"
+},
+{
+	"id": "fr_en_188",
+	"from": "sur",
+	"to": "over"
+},
+{
+	"id": "fr_en_189",
+	"from": "savoir",
+	"to": "know"
+},
+{
+	"id": "fr_en_190",
+	"from": "eau",
+	"to": "water"
+},
+{
+	"id": "fr_en_191",
+	"from": "que",
+	"to": "than"
+},
+{
+	"id": "fr_en_192",
+	"from": "appel",
+	"to": "call"
+},
+{
+	"id": "fr_en_193",
+	"from": "première",
+	"to": "first"
+},
+{
+	"id": "fr_en_194",
+	"from": "qui",
+	"to": "who"
+},
+{
+	"id": "fr_en_195",
+	"from": "peut",
+	"to": "may"
+},
+{
+	"id": "fr_en_196",
+	"from": "vers le bas",
+	"to": "down"
+},
+{
+	"id": "fr_en_197",
+	"from": "côté",
+	"to": "side"
+},
+{
+	"id": "fr_en_198",
+	"from": "été",
+	"to": "been"
+},
+{
+	"id": "fr_en_199",
+	"from": "maintenant",
+	"to": "now"
+},
+{
+	"id": "fr_en_200",
+	"from": "trouver",
+	"to": "find"
+},
+{
+	"id": "fr_en_201",
+	"from": "tête",
+	"to": "head"
+},
+{
+	"id": "fr_en_202",
+	"from": "supporter",
+	"to": "stand"
+},
+{
+	"id": "fr_en_203",
+	"from": "propre",
+	"to": "own"
+},
+{
+	"id": "fr_en_204",
+	"from": "page",
+	"to": "page"
+},
+{
+	"id": "fr_en_205",
+	"from": "devrait",
+	"to": "should"
+},
+{
+	"id": "fr_en_206",
+	"from": "pays",
+	"to": "country"
+},
+{
+	"id": "fr_en_207",
+	"from": "trouvé",
+	"to": "found"
+},
+{
+	"id": "fr_en_208",
+	"from": "réponse",
+	"to": "answer"
+},
+{
+	"id": "fr_en_209",
+	"from": "école",
+	"to": "school"
+},
+{
+	"id": "fr_en_210",
+	"from": "croître",
+	"to": "grow"
+},
+{
+	"id": "fr_en_211",
+	"from": "étude",
+	"to": "study"
+},
+{
+	"id": "fr_en_212",
+	"from": "encore",
+	"to": "still"
+},
+{
+	"id": "fr_en_213",
+	"from": "apprendre",
+	"to": "learn"
+},
+{
+	"id": "fr_en_214",
+	"from": "usine",
+	"to": "plant"
+},
+{
+	"id": "fr_en_215",
+	"from": "couvercle",
+	"to": "cover"
+},
+{
+	"id": "fr_en_216",
+	"from": "nourriture",
+	"to": "food"
+},
+{
+	"id": "fr_en_217",
+	"from": "soleil",
+	"to": "sun"
+},
+{
+	"id": "fr_en_218",
+	"from": "quatre",
+	"to": "four"
+},
+{
+	"id": "fr_en_219",
+	"from": "entre",
+	"to": "between"
+},
+{
+	"id": "fr_en_220",
+	"from": "état",
+	"to": "state"
+},
+{
+	"id": "fr_en_221",
+	"from": "garder",
+	"to": "keep"
+},
+{
+	"id": "fr_en_222",
+	"from": "œil",
+	"to": "eye"
+},
+{
+	"id": "fr_en_223",
+	"from": "jamais",
+	"to": "never"
+},
+{
+	"id": "fr_en_224",
+	"from": "dernier",
+	"to": "last"
+},
+{
+	"id": "fr_en_225",
+	"from": "laisser",
+	"to": "let"
+},
+{
+	"id": "fr_en_226",
+	"from": "pensée",
+	"to": "thought"
+},
+{
+	"id": "fr_en_227",
+	"from": "ville",
+	"to": "city"
+},
+{
+	"id": "fr_en_228",
+	"from": "arbre",
+	"to": "tree"
+},
+{
+	"id": "fr_en_229",
+	"from": "traverser",
+	"to": "cross"
+},
+{
+	"id": "fr_en_230",
+	"from": "ferme",
+	"to": "farm"
+},
+{
+	"id": "fr_en_231",
+	"from": "dur",
+	"to": "hard"
+},
+{
+	"id": "fr_en_232",
+	"from": "début",
+	"to": "start"
+},
+{
+	"id": "fr_en_233",
+	"from": "puissance",
+	"to": "might"
+},
+{
+	"id": "fr_en_234",
+	"from": "histoire",
+	"to": "story"
+},
+{
+	"id": "fr_en_235",
+	"from": "scie",
+	"to": "saw"
+},
+{
+	"id": "fr_en_236",
+	"from": "loin",
+	"to": "far"
+},
+{
+	"id": "fr_en_237",
+	"from": "mer",
+	"to": "sea"
+},
+{
+	"id": "fr_en_238",
+	"from": "tirer",
+	"to": "draw"
+},
+{
+	"id": "fr_en_239",
+	"from": "gauche",
+	"to": "left"
+},
+{
+	"id": "fr_en_240",
+	"from": "tard",
+	"to": "late"
+},
+{
+	"id": "fr_en_241",
+	"from": "courir",
+	"to": "run"
+},
+{
+	"id": "fr_en_242",
+	"from": "ne ... pas",
+	"to": "don’t"
+},
+{
+	"id": "fr_en_243",
+	"from": "tandis que",
+	"to": "while"
+},
+{
+	"id": "fr_en_244",
+	"from": "presse",
+	"to": "press"
+},
+{
+	"id": "fr_en_245",
+	"from": "proche",
+	"to": "close"
+},
+{
+	"id": "fr_en_246",
+	"from": "nuit",
+	"to": "night"
+},
+{
+	"id": "fr_en_247",
+	"from": "réel",
+	"to": "real"
+},
+{
+	"id": "fr_en_248",
+	"from": "vie",
+	"to": "life"
+},
+{
+	"id": "fr_en_249",
+	"from": "peu",
+	"to": "few"
+},
+{
+	"id": "fr_en_250",
+	"from": "nord",
+	"to": "north"
+},
+{
+	"id": "fr_en_251",
+	"from": "livre",
+	"to": "book"
+},
+{
+	"id": "fr_en_252",
+	"from": "porter",
+	"to": "carry"
+},
+{
+	"id": "fr_en_253",
+	"from": "a pris",
+	"to": "took"
+},
+{
+	"id": "fr_en_254",
+	"from": "science",
+	"to": "science"
+},
+{
+	"id": "fr_en_255",
+	"from": "manger",
+	"to": "eat"
+},
+{
+	"id": "fr_en_256",
+	"from": "chambre",
+	"to": "room"
+},
+{
+	"id": "fr_en_257",
+	"from": "ami",
+	"to": "friend"
+},
+{
+	"id": "fr_en_258",
+	"from": "a commencé",
+	"to": "began"
+},
+{
+	"id": "fr_en_259",
+	"from": "idée",
+	"to": "idea"
+},
+{
+	"id": "fr_en_260",
+	"from": "poisson",
+	"to": "fish"
+},
+{
+	"id": "fr_en_261",
+	"from": "montagne",
+	"to": "mountain"
+},
+{
+	"id": "fr_en_262",
+	"from": "Arrêtez",
+	"to": "stop"
+},
+{
+	"id": "fr_en_263",
+	"from": "une fois",
+	"to": "once"
+},
+{
+	"id": "fr_en_264",
+	"from": "base",
+	"to": "base"
+},
+{
+	"id": "fr_en_265",
+	"from": "entendre",
+	"to": "hear"
+},
+{
+	"id": "fr_en_266",
+	"from": "cheval",
+	"to": "horse"
+},
+{
+	"id": "fr_en_267",
+	"from": "coupe",
+	"to": "cut"
+},
+{
+	"id": "fr_en_268",
+	"from": "sûr",
+	"to": "sure"
+},
+{
+	"id": "fr_en_269",
+	"from": "regarder",
+	"to": "watch"
+},
+{
+	"id": "fr_en_270",
+	"from": "couleur",
+	"to": "color"
+},
+{
+	"id": "fr_en_271",
+	"from": "face",
+	"to": "face"
+},
+{
+	"id": "fr_en_272",
+	"from": "bois",
+	"to": "wood"
+},
+{
+	"id": "fr_en_273",
+	"from": "principal",
+	"to": "main"
+},
+{
+	"id": "fr_en_274",
+	"from": "ouvert",
+	"to": "open"
+},
+{
+	"id": "fr_en_275",
+	"from": "paraître",
+	"to": "seem"
+},
+{
+	"id": "fr_en_276",
+	"from": "ensemble",
+	"to": "together"
+},
+{
+	"id": "fr_en_277",
+	"from": "suivant",
+	"to": "next"
+},
+{
+	"id": "fr_en_278",
+	"from": "blanc",
+	"to": "white"
+},
+{
+	"id": "fr_en_279",
+	"from": "enfants",
+	"to": "children"
+},
+{
+	"id": "fr_en_280",
+	"from": "commencer",
+	"to": "begin"
+},
+{
+	"id": "fr_en_281",
+	"from": "eu",
+	"to": "got"
+},
+{
+	"id": "fr_en_282",
+	"from": "marcher",
+	"to": "walk"
+},
+{
+	"id": "fr_en_283",
+	"from": "exemple",
+	"to": "example"
+},
+{
+	"id": "fr_en_284",
+	"from": "facilité",
+	"to": "ease"
+},
+{
+	"id": "fr_en_285",
+	"from": "papier",
+	"to": "paper"
+},
+{
+	"id": "fr_en_286",
+	"from": "groupe",
+	"to": "group"
+},
+{
+	"id": "fr_en_287",
+	"from": "toujours",
+	"to": "always"
+},
+{
+	"id": "fr_en_288",
+	"from": "musique",
+	"to": "music"
+},
+{
+	"id": "fr_en_289",
+	"from": "ceux",
+	"to": "those"
+},
+{
+	"id": "fr_en_290",
+	"from": "tous les deux",
+	"to": "both"
+},
+{
+	"id": "fr_en_291",
+	"from": "marque",
+	"to": "mark"
+},
+{
+	"id": "fr_en_292",
+	"from": "souvent",
+	"to": "often"
+},
+{
+	"id": "fr_en_293",
+	"from": "lettre",
+	"to": "letter"
+},
+{
+	"id": "fr_en_294",
+	"from": "jusqu’à ce que",
+	"to": "until"
+},
+{
+	"id": "fr_en_295",
+	"from": "mile",
+	"to": "mile"
+},
+{
+	"id": "fr_en_296",
+	"from": "rivière",
+	"to": "river"
+},
+{
+	"id": "fr_en_297",
+	"from": "voiture",
+	"to": "car"
+},
+{
+	"id": "fr_en_298",
+	"from": "pieds",
+	"to": "feet"
+},
+{
+	"id": "fr_en_299",
+	"from": "soins",
+	"to": "care"
+},
+{
+	"id": "fr_en_300",
+	"from": "deuxième",
+	"to": "second"
+},
+{
+	"id": "fr_en_301",
+	"from": "assez",
+	"to": "enough"
+},
+{
+	"id": "fr_en_302",
+	"from": "plaine",
+	"to": "plain"
+},
+{
+	"id": "fr_en_303",
+	"from": "fille",
+	"to": "girl"
+},
+{
+	"id": "fr_en_304",
+	"from": "habituel",
+	"to": "usual"
+},
+{
+	"id": "fr_en_305",
+	"from": "jeune",
+	"to": "young"
+},
+{
+	"id": "fr_en_306",
+	"from": "prêt",
+	"to": "ready"
+},
+{
+	"id": "fr_en_307",
+	"from": "au-dessus",
+	"to": "above"
+},
+{
+	"id": "fr_en_308",
+	"from": "jamais",
+	"to": "ever"
+},
+{
+	"id": "fr_en_309",
+	"from": "rouge",
+	"to": "red"
+},
+{
+	"id": "fr_en_310",
+	"from": "liste",
+	"to": "list"
+},
+{
+	"id": "fr_en_311",
+	"from": "bien que",
+	"to": "though"
+},
+{
+	"id": "fr_en_312",
+	"from": "sentir",
+	"to": "feel"
+},
+{
+	"id": "fr_en_313",
+	"from": "parler",
+	"to": "talk"
+},
+{
+	"id": "fr_en_314",
+	"from": "oiseau",
+	"to": "bird"
+},
+{
+	"id": "fr_en_315",
+	"from": "bientôt",
+	"to": "soon"
+},
+{
+	"id": "fr_en_316",
+	"from": "corps",
+	"to": "body"
+},
+{
+	"id": "fr_en_317",
+	"from": "chien",
+	"to": "dog"
+},
+{
+	"id": "fr_en_318",
+	"from": "famille",
+	"to": "family"
+},
+{
+	"id": "fr_en_319",
+	"from": "direct",
+	"to": "direct"
+},
+{
+	"id": "fr_en_320",
+	"from": "pose",
+	"to": "pose"
+},
+{
+	"id": "fr_en_321",
+	"from": "laisser",
+	"to": "leave"
+},
+{
+	"id": "fr_en_322",
+	"from": "chanson",
+	"to": "song"
+},
+{
+	"id": "fr_en_323",
+	"from": "mesurer",
+	"to": "measure"
+},
+{
+	"id": "fr_en_324",
+	"from": "porte",
+	"to": "door"
+},
+{
+	"id": "fr_en_325",
+	"from": "produit",
+	"to": "product"
+},
+{
+	"id": "fr_en_326",
+	"from": "noir",
+	"to": "black"
+},
+{
+	"id": "fr_en_327",
+	"from": "court",
+	"to": "short"
+},
+{
+	"id": "fr_en_328",
+	"from": "chiffre",
+	"to": "numeral"
+},
+{
+	"id": "fr_en_329",
+	"from": "classe",
+	"to": "class"
+},
+{
+	"id": "fr_en_330",
+	"from": "vent",
+	"to": "wind"
+},
+{
+	"id": "fr_en_331",
+	"from": "question",
+	"to": "question"
+},
+{
+	"id": "fr_en_332",
+	"from": "arriver",
+	"to": "happen"
+},
+{
+	"id": "fr_en_333",
+	"from": "complète",
+	"to": "complete"
+},
+{
+	"id": "fr_en_334",
+	"from": "navire",
+	"to": "ship"
+},
+{
+	"id": "fr_en_335",
+	"from": "zone",
+	"to": "area"
+},
+{
+	"id": "fr_en_336",
+	"from": "moitié",
+	"to": "half"
+},
+{
+	"id": "fr_en_337",
+	"from": "rock",
+	"to": "rock"
+},
+{
+	"id": "fr_en_338",
+	"from": "ordre",
+	"to": "order"
+},
+{
+	"id": "fr_en_339",
+	"from": "feu",
+	"to": "fire"
+},
+{
+	"id": "fr_en_340",
+	"from": "sud",
+	"to": "south"
+},
+{
+	"id": "fr_en_341",
+	"from": "problème",
+	"to": "problem"
+},
+{
+	"id": "fr_en_342",
+	"from": "pièce",
+	"to": "piece"
+},
+{
+	"id": "fr_en_343",
+	"from": "dit",
+	"to": "told"
+},
+{
+	"id": "fr_en_344",
+	"from": "savait",
+	"to": "knew"
+},
+{
+	"id": "fr_en_345",
+	"from": "passer",
+	"to": "pass"
+},
+{
+	"id": "fr_en_346",
+	"from": "depuis",
+	"to": "since"
+},
+{
+	"id": "fr_en_347",
+	"from": "haut",
+	"to": "top"
+},
+{
+	"id": "fr_en_348",
+	"from": "ensemble",
+	"to": "whole"
+},
+{
+	"id": "fr_en_349",
+	"from": "roi",
+	"to": "king"
+},
+{
+	"id": "fr_en_350",
+	"from": "rue",
+	"to": "street"
+},
+{
+	"id": "fr_en_351",
+	"from": "pouce",
+	"to": "inch"
+},
+{
+	"id": "fr_en_352",
+	"from": "multiplier",
+	"to": "multiply"
+},
+{
+	"id": "fr_en_353",
+	"from": "rien",
+	"to": "nothing"
+},
+{
+	"id": "fr_en_354",
+	"from": "cours",
+	"to": "course"
+},
+{
+	"id": "fr_en_355",
+	"from": "rester",
+	"to": "stay"
+},
+{
+	"id": "fr_en_356",
+	"from": "roue",
+	"to": "wheel"
+},
+{
+	"id": "fr_en_357",
+	"from": "plein",
+	"to": "full"
+},
+{
+	"id": "fr_en_358",
+	"from": "force",
+	"to": "force"
+},
+{
+	"id": "fr_en_359",
+	"from": "bleu",
+	"to": "blue"
+},
+{
+	"id": "fr_en_360",
+	"from": "objet",
+	"to": "object"
+},
+{
+	"id": "fr_en_361",
+	"from": "décider",
+	"to": "decide"
+},
+{
+	"id": "fr_en_362",
+	"from": "surface",
+	"to": "surface"
+},
+{
+	"id": "fr_en_363",
+	"from": "profond",
+	"to": "deep"
+},
+{
+	"id": "fr_en_364",
+	"from": "lune",
+	"to": "moon"
+},
+{
+	"id": "fr_en_365",
+	"from": "île",
+	"to": "island"
+},
+{
+	"id": "fr_en_366",
+	"from": "pied",
+	"to": "foot"
+},
+{
+	"id": "fr_en_367",
+	"from": "système",
+	"to": "system"
+},
+{
+	"id": "fr_en_368",
+	"from": "occupé",
+	"to": "busy"
+},
+{
+	"id": "fr_en_369",
+	"from": "test",
+	"to": "test"
+},
+{
+	"id": "fr_en_370",
+	"from": "record",
+	"to": "record"
+},
+{
+	"id": "fr_en_371",
+	"from": "bateau",
+	"to": "boat"
+},
+{
+	"id": "fr_en_372",
+	"from": "commun",
+	"to": "common"
+},
+{
+	"id": "fr_en_373",
+	"from": "or",
+	"to": "gold"
+},
+{
+	"id": "fr_en_374",
+	"from": "possible",
+	"to": "possible"
+},
+{
+	"id": "fr_en_375",
+	"from": "plan",
+	"to": "plane"
+},
+{
+	"id": "fr_en_376",
+	"from": "place",
+	"to": "stead"
+},
+{
+	"id": "fr_en_377",
+	"from": "sec",
+	"to": "dry"
+},
+{
+	"id": "fr_en_378",
+	"from": "se demander",
+	"to": "wonder"
+},
+{
+	"id": "fr_en_379",
+	"from": "rire",
+	"to": "laugh"
+},
+{
+	"id": "fr_en_380",
+	"from": "mille",
+	"to": "thousand"
+},
+{
+	"id": "fr_en_381",
+	"from": "il y a",
+	"to": "ago"
+},
+{
+	"id": "fr_en_382",
+	"from": "ran",
+	"to": "ran"
+},
+{
+	"id": "fr_en_383",
+	"from": "vérifier",
+	"to": "check"
+},
+{
+	"id": "fr_en_384",
+	"from": "jeu",
+	"to": "game"
+},
+{
+	"id": "fr_en_385",
+	"from": "forme",
+	"to": "shape"
+},
+{
+	"id": "fr_en_386",
+	"from": "assimiler",
+	"to": "equate"
+},
+{
+	"id": "fr_en_387",
+	"from": "chaud",
+	"to": "hot"
+},
+{
+	"id": "fr_en_388",
+	"from": "manquer",
+	"to": "miss"
+},
+{
+	"id": "fr_en_389",
+	"from": "apporté",
+	"to": "brought"
+},
+{
+	"id": "fr_en_390",
+	"from": "chaleur",
+	"to": "heat"
+},
+{
+	"id": "fr_en_391",
+	"from": "neige",
+	"to": "snow"
+},
+{
+	"id": "fr_en_392",
+	"from": "pneu",
+	"to": "tire"
+},
+{
+	"id": "fr_en_393",
+	"from": "apporter",
+	"to": "bring"
+},
+{
+	"id": "fr_en_394",
+	"from": "oui",
+	"to": "yes"
+},
+{
+	"id": "fr_en_395",
+	"from": "lointain",
+	"to": "distant"
+},
+{
+	"id": "fr_en_396",
+	"from": "remplir",
+	"to": "fill"
+},
+{
+	"id": "fr_en_397",
+	"from": "est",
+	"to": "east"
+},
+{
+	"id": "fr_en_398",
+	"from": "peindre",
+	"to": "paint"
+},
+{
+	"id": "fr_en_399",
+	"from": "langue",
+	"to": "language"
+},
+{
+	"id": "fr_en_400",
+	"from": "entre",
+	"to": "among"
+},
+{
+	"id": "fr_en_401",
+	"from": "unité",
+	"to": "unit"
+},
+{
+	"id": "fr_en_402",
+	"from": "puissance",
+	"to": "power"
+},
+{
+	"id": "fr_en_403",
+	"from": "ville",
+	"to": "town"
+},
+{
+	"id": "fr_en_404",
+	"from": "fin",
+	"to": "fine"
+},
+{
+	"id": "fr_en_405",
+	"from": "certain",
+	"to": "certain"
+},
+{
+	"id": "fr_en_406",
+	"from": "voler",
+	"to": "fly"
+},
+{
+	"id": "fr_en_407",
+	"from": "tomber",
+	"to": "fall"
+},
+{
+	"id": "fr_en_408",
+	"from": "conduire",
+	"to": "lead"
+},
+{
+	"id": "fr_en_409",
+	"from": "cri",
+	"to": "cry"
+},
+{
+	"id": "fr_en_410",
+	"from": "sombre",
+	"to": "dark"
+},
+{
+	"id": "fr_en_411",
+	"from": "machine",
+	"to": "machine"
+},
+{
+	"id": "fr_en_412",
+	"from": "Note",
+	"to": "note"
+},
+{
+	"id": "fr_en_413",
+	"from": "patienter",
+	"to": "wait"
+},
+{
+	"id": "fr_en_414",
+	"from": "plan",
+	"to": "plan"
+},
+{
+	"id": "fr_en_415",
+	"from": "figure",
+	"to": "figure"
+},
+{
+	"id": "fr_en_416",
+	"from": "étoile",
+	"to": "star"
+},
+{
+	"id": "fr_en_417",
+	"from": "boîte",
+	"to": "box"
+},
+{
+	"id": "fr_en_418",
+	"from": "nom",
+	"to": "noun"
+},
+{
+	"id": "fr_en_419",
+	"from": "domaine",
+	"to": "field"
+},
+{
+	"id": "fr_en_420",
+	"from": "reste",
+	"to": "rest"
+},
+{
+	"id": "fr_en_421",
+	"from": "correct",
+	"to": "correct"
+},
+{
+	"id": "fr_en_422",
+	"from": "capable",
+	"to": "able"
+},
+{
+	"id": "fr_en_423",
+	"from": "livre",
+	"to": "pound"
+},
+{
+	"id": "fr_en_424",
+	"from": "Terminé",
+	"to": "done"
+},
+{
+	"id": "fr_en_425",
+	"from": "beauté",
+	"to": "beauty"
+},
+{
+	"id": "fr_en_426",
+	"from": "entraînement",
+	"to": "drive"
+},
+{
+	"id": "fr_en_427",
+	"from": "résisté",
+	"to": "stood"
+},
+{
+	"id": "fr_en_428",
+	"from": "contenir",
+	"to": "contain"
+},
+{
+	"id": "fr_en_429",
+	"from": "avant",
+	"to": "front"
+},
+{
+	"id": "fr_en_430",
+	"from": "enseigner",
+	"to": "teach"
+},
+{
+	"id": "fr_en_431",
+	"from": "semaine",
+	"to": "week"
+},
+{
+	"id": "fr_en_432",
+	"from": "finale",
+	"to": "final"
+},
+{
+	"id": "fr_en_433",
+	"from": "donné",
+	"to": "gave"
+},
+{
+	"id": "fr_en_434",
+	"from": "vert",
+	"to": "green"
+},
+{
+	"id": "fr_en_435",
+	"from": "oh",
+	"to": "oh"
+},
+{
+	"id": "fr_en_436",
+	"from": "rapide",
+	"to": "quick"
+},
+{
+	"id": "fr_en_437",
+	"from": "développer",
+	"to": "develop"
+},
+{
+	"id": "fr_en_438",
+	"from": "océan",
+	"to": "ocean"
+},
+{
+	"id": "fr_en_439",
+	"from": "chaud",
+	"to": "warm"
+},
+{
+	"id": "fr_en_440",
+	"from": "gratuit",
+	"to": "free"
+},
+{
+	"id": "fr_en_441",
+	"from": "minute",
+	"to": "minute"
+},
+{
+	"id": "fr_en_442",
+	"from": "fort",
+	"to": "strong"
+},
+{
+	"id": "fr_en_443",
+	"from": "spécial",
+	"to": "special"
+},
+{
+	"id": "fr_en_444",
+	"from": "esprit",
+	"to": "mind"
+},
+{
+	"id": "fr_en_445",
+	"from": "derrière",
+	"to": "behind"
+},
+{
+	"id": "fr_en_446",
+	"from": "clair",
+	"to": "clear"
+},
+{
+	"id": "fr_en_447",
+	"from": "queue",
+	"to": "tail"
+},
+{
+	"id": "fr_en_448",
+	"from": "produire",
+	"to": "produce"
+},
+{
+	"id": "fr_en_449",
+	"from": "fait",
+	"to": "fact"
+},
+{
+	"id": "fr_en_450",
+	"from": "espace",
+	"to": "space"
+},
+{
+	"id": "fr_en_451",
+	"from": "entendu",
+	"to": "heard"
+},
+{
+	"id": "fr_en_452",
+	"from": "meilleur",
+	"to": "best"
+},
+{
+	"id": "fr_en_453",
+	"from": "heure",
+	"to": "hour"
+},
+{
+	"id": "fr_en_454",
+	"from": "mieux",
+	"to": "better"
+},
+{
+	"id": "fr_en_455",
+	"from": "vrai",
+	"to": "true"
+},
+{
+	"id": "fr_en_456",
+	"from": "pendant",
+	"to": "during"
+},
+{
+	"id": "fr_en_457",
+	"from": "cent",
+	"to": "hundred"
+},
+{
+	"id": "fr_en_458",
+	"from": "cinq",
+	"to": "five"
+},
+{
+	"id": "fr_en_459",
+	"from": "rappeler",
+	"to": "remember"
+},
+{
+	"id": "fr_en_460",
+	"from": "étape",
+	"to": "step"
+},
+{
+	"id": "fr_en_461",
+	"from": "tôt",
+	"to": "early"
+},
+{
+	"id": "fr_en_462",
+	"from": "tenir",
+	"to": "hold"
+},
+{
+	"id": "fr_en_463",
+	"from": "ouest",
+	"to": "west"
+},
+{
+	"id": "fr_en_464",
+	"from": "sol",
+	"to": "ground"
+},
+{
+	"id": "fr_en_465",
+	"from": "intérêt",
+	"to": "interest"
+},
+{
+	"id": "fr_en_466",
+	"from": "atteindre",
+	"to": "reach"
+},
+{
+	"id": "fr_en_467",
+	"from": "rapide",
+	"to": "fast"
+},
+{
+	"id": "fr_en_468",
+	"from": "verbe",
+	"to": "verb"
+},
+{
+	"id": "fr_en_469",
+	"from": "chanter",
+	"to": "sing"
+},
+{
+	"id": "fr_en_470",
+	"from": "écouter",
+	"to": "listen"
+},
+{
+	"id": "fr_en_471",
+	"from": "six",
+	"to": "six"
+},
+{
+	"id": "fr_en_472",
+	"from": "table",
+	"to": "table"
+},
+{
+	"id": "fr_en_473",
+	"from": "Voyage",
+	"to": "travel"
+},
+{
+	"id": "fr_en_474",
+	"from": "moins",
+	"to": "less"
+},
+{
+	"id": "fr_en_475",
+	"from": "matin",
+	"to": "morning"
+},
+{
+	"id": "fr_en_476",
+	"from": "dix",
+	"to": "ten"
+},
+{
+	"id": "fr_en_477",
+	"from": "simple",
+	"to": "simple"
+},
+{
+	"id": "fr_en_478",
+	"from": "plusieurs",
+	"to": "several"
+},
+{
+	"id": "fr_en_479",
+	"from": "voyelle",
+	"to": "vowel"
+},
+{
+	"id": "fr_en_480",
+	"from": "vers",
+	"to": "toward"
+},
+{
+	"id": "fr_en_481",
+	"from": "guerre",
+	"to": "war"
+},
+{
+	"id": "fr_en_482",
+	"from": "poser",
+	"to": "lay"
+},
+{
+	"id": "fr_en_483",
+	"from": "contre",
+	"to": "against"
+},
+{
+	"id": "fr_en_484",
+	"from": "modèle",
+	"to": "pattern"
+},
+{
+	"id": "fr_en_485",
+	"from": "lent",
+	"to": "slow"
+},
+{
+	"id": "fr_en_486",
+	"from": "centre",
+	"to": "center"
+},
+{
+	"id": "fr_en_487",
+	"from": "amour",
+	"to": "love"
+},
+{
+	"id": "fr_en_488",
+	"from": "personne",
+	"to": "person"
+},
+{
+	"id": "fr_en_489",
+	"from": "argent",
+	"to": "money"
+},
+{
+	"id": "fr_en_490",
+	"from": "servir",
+	"to": "serve"
+},
+{
+	"id": "fr_en_491",
+	"from": "apparaître",
+	"to": "appear"
+},
+{
+	"id": "fr_en_492",
+	"from": "route",
+	"to": "road"
+},
+{
+	"id": "fr_en_493",
+	"from": "carte",
+	"to": "map"
+},
+{
+	"id": "fr_en_494",
+	"from": "pluie",
+	"to": "rain"
+},
+{
+	"id": "fr_en_495",
+	"from": "règle",
+	"to": "rule"
+},
+{
+	"id": "fr_en_496",
+	"from": "gouverner",
+	"to": "govern"
+},
+{
+	"id": "fr_en_497",
+	"from": "tirer",
+	"to": "pull"
+},
+{
+	"id": "fr_en_498",
+	"from": "froid",
+	"to": "cold"
+},
+{
+	"id": "fr_en_499",
+	"from": "avis",
+	"to": "notice"
+},
+{
+	"id": "fr_en_500",
+	"from": "voix",
+	"to": "voice"
+},
+{
+	"id": "fr_en_501",
+	"from": "énergie",
+	"to": "energy"
+},
+{
+	"id": "fr_en_502",
+	"from": "chasse",
+	"to": "hunt"
+},
+{
+	"id": "fr_en_503",
+	"from": "probable",
+	"to": "probable"
+},
+{
+	"id": "fr_en_504",
+	"from": "lit",
+	"to": "bed"
+},
+{
+	"id": "fr_en_505",
+	"from": "frère",
+	"to": "brother"
+},
+{
+	"id": "fr_en_506",
+	"from": "œuf",
+	"to": "egg"
+},
+{
+	"id": "fr_en_507",
+	"from": "tour",
+	"to": "ride"
+},
+{
+	"id": "fr_en_508",
+	"from": "cellule",
+	"to": "cell"
+},
+{
+	"id": "fr_en_509",
+	"from": "croire",
+	"to": "believe"
+},
+{
+	"id": "fr_en_510",
+	"from": "peut-être",
+	"to": "perhaps"
+},
+{
+	"id": "fr_en_511",
+	"from": "choisir",
+	"to": "pick"
+},
+{
+	"id": "fr_en_512",
+	"from": "soudain",
+	"to": "sudden"
+},
+{
+	"id": "fr_en_513",
+	"from": "compter",
+	"to": "count"
+},
+{
+	"id": "fr_en_514",
+	"from": "carré",
+	"to": "square"
+},
+{
+	"id": "fr_en_515",
+	"from": "raison",
+	"to": "reason"
+},
+{
+	"id": "fr_en_516",
+	"from": "longueur",
+	"to": "length"
+},
+{
+	"id": "fr_en_517",
+	"from": "représenter",
+	"to": "represent"
+},
+{
+	"id": "fr_en_518",
+	"from": "art",
+	"to": "art"
+},
+{
+	"id": "fr_en_519",
+	"from": "sujet",
+	"to": "subject"
+},
+{
+	"id": "fr_en_520",
+	"from": "région",
+	"to": "region"
+},
+{
+	"id": "fr_en_521",
+	"from": "taille",
+	"to": "size"
+},
+{
+	"id": "fr_en_522",
+	"from": "varier",
+	"to": "vary"
+},
+{
+	"id": "fr_en_523",
+	"from": "régler",
+	"to": "settle"
+},
+{
+	"id": "fr_en_524",
+	"from": "parler",
+	"to": "speak"
+},
+{
+	"id": "fr_en_525",
+	"from": "poids",
+	"to": "weight"
+},
+{
+	"id": "fr_en_526",
+	"from": "général",
+	"to": "general"
+},
+{
+	"id": "fr_en_527",
+	"from": "glace",
+	"to": "ice"
+},
+{
+	"id": "fr_en_528",
+	"from": "question",
+	"to": "matter"
+},
+{
+	"id": "fr_en_529",
+	"from": "cercle",
+	"to": "circle"
+},
+{
+	"id": "fr_en_530",
+	"from": "paire",
+	"to": "pair"
+},
+{
+	"id": "fr_en_531",
+	"from": "inclure",
+	"to": "include"
+},
+{
+	"id": "fr_en_532",
+	"from": "fracture",
+	"to": "divide"
+},
+{
+	"id": "fr_en_533",
+	"from": "syllabe",
+	"to": "syllable"
+},
+{
+	"id": "fr_en_534",
+	"from": "feutre",
+	"to": "felt"
+},
+{
+	"id": "fr_en_535",
+	"from": "grandiose",
+	"to": "grand"
+},
+{
+	"id": "fr_en_536",
+	"from": "balle",
+	"to": "ball"
+},
+{
+	"id": "fr_en_537",
+	"from": "encore",
+	"to": "yet"
+},
+{
+	"id": "fr_en_538",
+	"from": "vague",
+	"to": "wave"
+},
+{
+	"id": "fr_en_539",
+	"from": "tomber",
+	"to": "drop"
+},
+{
+	"id": "fr_en_540",
+	"from": "cœur",
+	"to": "heart"
+},
+{
+	"id": "fr_en_541",
+	"from": "h",
+	"to": "am"
+},
+{
+	"id": "fr_en_542",
+	"from": "présent",
+	"to": "present"
+},
+{
+	"id": "fr_en_543",
+	"from": "lourd",
+	"to": "heavy"
+},
+{
+	"id": "fr_en_544",
+	"from": "danse",
+	"to": "dance"
+},
+{
+	"id": "fr_en_545",
+	"from": "moteur",
+	"to": "engine"
+},
+{
+	"id": "fr_en_546",
+	"from": "position",
+	"to": "position"
+},
+{
+	"id": "fr_en_547",
+	"from": "bras",
+	"to": "arm"
+},
+{
+	"id": "fr_en_548",
+	"from": "large",
+	"to": "wide"
+},
+{
+	"id": "fr_en_549",
+	"from": "voile",
+	"to": "sail"
+},
+{
+	"id": "fr_en_550",
+	"from": "matériel",
+	"to": "material"
+},
+{
+	"id": "fr_en_551",
+	"from": "fraction",
+	"to": "fraction"
+},
+{
+	"id": "fr_en_552",
+	"from": "forêt",
+	"to": "forest"
+},
+{
+	"id": "fr_en_553",
+	"from": "s’asseoir",
+	"to": "sit"
+},
+{
+	"id": "fr_en_554",
+	"from": "course",
+	"to": "race"
+},
+{
+	"id": "fr_en_555",
+	"from": "fenêtre",
+	"to": "window"
+},
+{
+	"id": "fr_en_556",
+	"from": "magasin",
+	"to": "store"
+},
+{
+	"id": "fr_en_557",
+	"from": "été",
+	"to": "summer"
+},
+{
+	"id": "fr_en_558",
+	"from": "train",
+	"to": "train"
+},
+{
+	"id": "fr_en_559",
+	"from": "sommeil",
+	"to": "sleep"
+},
+{
+	"id": "fr_en_560",
+	"from": "prouver",
+	"to": "prove"
+},
+{
+	"id": "fr_en_561",
+	"from": "seul",
+	"to": "lone"
+},
+{
+	"id": "fr_en_562",
+	"from": "jambe",
+	"to": "leg"
+},
+{
+	"id": "fr_en_563",
+	"from": "exercice",
+	"to": "exercise"
+},
+{
+	"id": "fr_en_564",
+	"from": "mur",
+	"to": "wall"
+},
+{
+	"id": "fr_en_565",
+	"from": "capture",
+	"to": "catch"
+},
+{
+	"id": "fr_en_566",
+	"from": "monture",
+	"to": "mount"
+},
+{
+	"id": "fr_en_567",
+	"from": "souhaiter",
+	"to": "wish"
+},
+{
+	"id": "fr_en_568",
+	"from": "ciel",
+	"to": "sky"
+},
+{
+	"id": "fr_en_569",
+	"from": "conseil",
+	"to": "board"
+},
+{
+	"id": "fr_en_570",
+	"from": "joie",
+	"to": "joy"
+},
+{
+	"id": "fr_en_571",
+	"from": "hiver",
+	"to": "winter"
+},
+{
+	"id": "fr_en_572",
+	"from": "sat",
+	"to": "sat"
+},
+{
+	"id": "fr_en_573",
+	"from": "écrit",
+	"to": "written"
+},
+{
+	"id": "fr_en_574",
+	"from": "sauvage",
+	"to": "wild"
+},
+{
+	"id": "fr_en_575",
+	"from": "instrument",
+	"to": "instrument"
+},
+{
+	"id": "fr_en_576",
+	"from": "conservé",
+	"to": "kept"
+},
+{
+	"id": "fr_en_577",
+	"from": "verre",
+	"to": "glass"
+},
+{
+	"id": "fr_en_578",
+	"from": "herbe",
+	"to": "grass"
+},
+{
+	"id": "fr_en_579",
+	"from": "vache",
+	"to": "cow"
+},
+{
+	"id": "fr_en_580",
+	"from": "emploi",
+	"to": "job"
+},
+{
+	"id": "fr_en_581",
+	"from": "bord",
+	"to": "edge"
+},
+{
+	"id": "fr_en_582",
+	"from": "signe",
+	"to": "sign"
+},
+{
+	"id": "fr_en_583",
+	"from": "visite",
+	"to": "visit"
+},
+{
+	"id": "fr_en_584",
+	"from": "passé",
+	"to": "past"
+},
+{
+	"id": "fr_en_585",
+	"from": "doux",
+	"to": "soft"
+},
+{
+	"id": "fr_en_586",
+	"from": "amusement",
+	"to": "fun"
+},
+{
+	"id": "fr_en_587",
+	"from": "clair",
+	"to": "bright"
+},
+{
+	"id": "fr_en_588",
+	"from": "gaz",
+	"to": "gas"
+},
+{
+	"id": "fr_en_589",
+	"from": "temps",
+	"to": "weather"
+},
+{
+	"id": "fr_en_590",
+	"from": "mois",
+	"to": "month"
+},
+{
+	"id": "fr_en_591",
+	"from": "million",
+	"to": "million"
+},
+{
+	"id": "fr_en_592",
+	"from": "porter",
+	"to": "bear"
+},
+{
+	"id": "fr_en_593",
+	"from": "finition",
+	"to": "finish"
+},
+{
+	"id": "fr_en_594",
+	"from": "heureux",
+	"to": "happy"
+},
+{
+	"id": "fr_en_595",
+	"from": "espoir",
+	"to": "hope"
+},
+{
+	"id": "fr_en_596",
+	"from": "fleur",
+	"to": "flower"
+},
+{
+	"id": "fr_en_597",
+	"from": "vêtir",
+	"to": "clothe"
+},
+{
+	"id": "fr_en_598",
+	"from": "étrange",
+	"to": "strange"
+},
+{
+	"id": "fr_en_599",
+	"from": "disparu",
+	"to": "gone"
+},
+{
+	"id": "fr_en_600",
+	"from": "commerce",
+	"to": "trade"
+},
+{
+	"id": "fr_en_601",
+	"from": "mélodie",
+	"to": "melody"
+},
+{
+	"id": "fr_en_602",
+	"from": "voyage",
+	"to": "trip"
+},
+{
+	"id": "fr_en_603",
+	"from": "bureau",
+	"to": "office"
+},
+{
+	"id": "fr_en_604",
+	"from": "recevoir",
+	"to": "receive"
+},
+{
+	"id": "fr_en_605",
+	"from": "rangée",
+	"to": "row"
+},
+{
+	"id": "fr_en_606",
+	"from": "bouche",
+	"to": "mouth"
+},
+{
+	"id": "fr_en_607",
+	"from": "exact",
+	"to": "exact"
+},
+{
+	"id": "fr_en_608",
+	"from": "symbole",
+	"to": "symbol"
+},
+{
+	"id": "fr_en_609",
+	"from": "mourir",
+	"to": "die"
+},
+{
+	"id": "fr_en_610",
+	"from": "moins",
+	"to": "least"
+},
+{
+	"id": "fr_en_611",
+	"from": "difficulté",
+	"to": "trouble"
+},
+{
+	"id": "fr_en_612",
+	"from": "cri",
+	"to": "shout"
+},
+{
+	"id": "fr_en_613",
+	"from": "sauf",
+	"to": "except"
+},
+{
+	"id": "fr_en_614",
+	"from": "écrit",
+	"to": "wrote"
+},
+{
+	"id": "fr_en_615",
+	"from": "semence",
+	"to": "seed"
+},
+{
+	"id": "fr_en_616",
+	"from": "ton",
+	"to": "tone"
+},
+{
+	"id": "fr_en_617",
+	"from": "joindre",
+	"to": "join"
+},
+{
+	"id": "fr_en_618",
+	"from": "suggérer",
+	"to": "suggest"
+},
+{
+	"id": "fr_en_619",
+	"from": "propre",
+	"to": "clean"
+},
+{
+	"id": "fr_en_620",
+	"from": "pause",
+	"to": "break"
+},
+{
+	"id": "fr_en_621",
+	"from": "dame",
+	"to": "lady"
+},
+{
+	"id": "fr_en_622",
+	"from": "cour",
+	"to": "yard"
+},
+{
+	"id": "fr_en_623",
+	"from": "augmenter",
+	"to": "rise"
+},
+{
+	"id": "fr_en_624",
+	"from": "mauvais",
+	"to": "bad"
+},
+{
+	"id": "fr_en_625",
+	"from": "coup",
+	"to": "blow"
+},
+{
+	"id": "fr_en_626",
+	"from": "huile",
+	"to": "oil"
+},
+{
+	"id": "fr_en_627",
+	"from": "sang",
+	"to": "blood"
+},
+{
+	"id": "fr_en_628",
+	"from": "toucher",
+	"to": "touch"
+},
+{
+	"id": "fr_en_629",
+	"from": "a augmenté",
+	"to": "grew"
+},
+{
+	"id": "fr_en_630",
+	"from": "cent",
+	"to": "cent"
+},
+{
+	"id": "fr_en_631",
+	"from": "mélanger",
+	"to": "mix"
+},
+{
+	"id": "fr_en_632",
+	"from": "équipe",
+	"to": "team"
+},
+{
+	"id": "fr_en_633",
+	"from": "fil",
+	"to": "wire"
+},
+{
+	"id": "fr_en_634",
+	"from": "coût",
+	"to": "cost"
+},
+{
+	"id": "fr_en_635",
+	"from": "perdu",
+	"to": "lost"
+},
+{
+	"id": "fr_en_636",
+	"from": "brun",
+	"to": "brown"
+},
+{
+	"id": "fr_en_637",
+	"from": "porter",
+	"to": "wear"
+},
+{
+	"id": "fr_en_638",
+	"from": "jardin",
+	"to": "garden"
+},
+{
+	"id": "fr_en_639",
+	"from": "égal",
+	"to": "equal"
+},
+{
+	"id": "fr_en_640",
+	"from": "expédié",
+	"to": "sent"
+},
+{
+	"id": "fr_en_641",
+	"from": "choisir",
+	"to": "choose"
+},
+{
+	"id": "fr_en_642",
+	"from": "est tombé",
+	"to": "fell"
+},
+{
+	"id": "fr_en_643",
+	"from": "s’adapter",
+	"to": "fit"
+},
+{
+	"id": "fr_en_644",
+	"from": "débit",
+	"to": "flow"
+},
+{
+	"id": "fr_en_645",
+	"from": "juste",
+	"to": "fair"
+},
+{
+	"id": "fr_en_646",
+	"from": "banque",
+	"to": "bank"
+},
+{
+	"id": "fr_en_647",
+	"from": "recueillir",
+	"to": "collect"
+},
+{
+	"id": "fr_en_648",
+	"from": "sauver",
+	"to": "save"
+},
+{
+	"id": "fr_en_649",
+	"from": "contrôle",
+	"to": "control"
+},
+{
+	"id": "fr_en_650",
+	"from": "décimal",
+	"to": "decimal"
+},
+{
+	"id": "fr_en_651",
+	"from": "oreille",
+	"to": "ear"
+},
+{
+	"id": "fr_en_652",
+	"from": "autre",
+	"to": "else"
+},
+{
+	"id": "fr_en_653",
+	"from": "tout à fait",
+	"to": "quite"
+},
+{
+	"id": "fr_en_654",
+	"from": "cassé",
+	"to": "broke"
+},
+{
+	"id": "fr_en_655",
+	"from": "cas",
+	"to": "case"
+},
+{
+	"id": "fr_en_656",
+	"from": "milieu",
+	"to": "middle"
+},
+{
+	"id": "fr_en_657",
+	"from": "tuer",
+	"to": "kill"
+},
+{
+	"id": "fr_en_658",
+	"from": "fils",
+	"to": "son"
+},
+{
+	"id": "fr_en_659",
+	"from": "lac",
+	"to": "lake"
+},
+{
+	"id": "fr_en_660",
+	"from": "moment",
+	"to": "moment"
+},
+{
+	"id": "fr_en_661",
+	"from": "échelle",
+	"to": "scale"
+},
+{
+	"id": "fr_en_662",
+	"from": "fort",
+	"to": "loud"
+},
+{
+	"id": "fr_en_663",
+	"from": "printemps",
+	"to": "spring"
+},
+{
+	"id": "fr_en_664",
+	"from": "observer",
+	"to": "observe"
+},
+{
+	"id": "fr_en_665",
+	"from": "enfant",
+	"to": "child"
+},
+{
+	"id": "fr_en_666",
+	"from": "droit",
+	"to": "straight"
+},
+{
+	"id": "fr_en_667",
+	"from": "consonne",
+	"to": "consonant"
+},
+{
+	"id": "fr_en_668",
+	"from": "nation",
+	"to": "nation"
+},
+{
+	"id": "fr_en_669",
+	"from": "dictionnaire",
+	"to": "dictionary"
+},
+{
+	"id": "fr_en_670",
+	"from": "lait",
+	"to": "milk"
+},
+{
+	"id": "fr_en_671",
+	"from": "vitesse",
+	"to": "speed"
+},
+{
+	"id": "fr_en_672",
+	"from": "méthode",
+	"to": "method"
+},
+{
+	"id": "fr_en_673",
+	"from": "organe",
+	"to": "organ"
+},
+{
+	"id": "fr_en_674",
+	"from": "payer",
+	"to": "pay"
+},
+{
+	"id": "fr_en_675",
+	"from": "âge",
+	"to": "age"
+},
+{
+	"id": "fr_en_676",
+	"from": "section",
+	"to": "section"
+},
+{
+	"id": "fr_en_677",
+	"from": "robe",
+	"to": "dress"
+},
+{
+	"id": "fr_en_678",
+	"from": "nuage",
+	"to": "cloud"
+},
+{
+	"id": "fr_en_679",
+	"from": "surprise",
+	"to": "surprise"
+},
+{
+	"id": "fr_en_680",
+	"from": "calme",
+	"to": "quiet"
+},
+{
+	"id": "fr_en_681",
+	"from": "pierre",
+	"to": "stone"
+},
+{
+	"id": "fr_en_682",
+	"from": "minuscule",
+	"to": "tiny"
+},
+{
+	"id": "fr_en_683",
+	"from": "montée",
+	"to": "climb"
+},
+{
+	"id": "fr_en_684",
+	"from": "frais",
+	"to": "cool"
+},
+{
+	"id": "fr_en_685",
+	"from": "conception",
+	"to": "design"
+},
+{
+	"id": "fr_en_686",
+	"from": "pauvres",
+	"to": "poor"
+},
+{
+	"id": "fr_en_687",
+	"from": "lot",
+	"to": "lot"
+},
+{
+	"id": "fr_en_688",
+	"from": "expérience",
+	"to": "experiment"
+},
+{
+	"id": "fr_en_689",
+	"from": "bas",
+	"to": "bottom"
+},
+{
+	"id": "fr_en_690",
+	"from": "clé",
+	"to": "key"
+},
+{
+	"id": "fr_en_691",
+	"from": "fer",
+	"to": "iron"
+},
+{
+	"id": "fr_en_692",
+	"from": "unique",
+	"to": "single"
+},
+{
+	"id": "fr_en_693",
+	"from": "bâton",
+	"to": "stick"
+},
+{
+	"id": "fr_en_694",
+	"from": "plat",
+	"to": "flat"
+},
+{
+	"id": "fr_en_695",
+	"from": "vingt",
+	"to": "twenty"
+},
+{
+	"id": "fr_en_696",
+	"from": "peau",
+	"to": "skin"
+},
+{
+	"id": "fr_en_697",
+	"from": "sourire",
+	"to": "smile"
+},
+{
+	"id": "fr_en_698",
+	"from": "pli",
+	"to": "crease"
+},
+{
+	"id": "fr_en_699",
+	"from": "trou",
+	"to": "hole"
+},
+{
+	"id": "fr_en_700",
+	"from": "sauter",
+	"to": "jump"
+},
+{
+	"id": "fr_en_701",
+	"from": "bébé",
+	"to": "baby"
+},
+{
+	"id": "fr_en_702",
+	"from": "huit",
+	"to": "eight"
+},
+{
+	"id": "fr_en_703",
+	"from": "village",
+	"to": "village"
+},
+{
+	"id": "fr_en_704",
+	"from": "se rencontrent",
+	"to": "meet"
+},
+{
+	"id": "fr_en_705",
+	"from": "racine",
+	"to": "root"
+},
+{
+	"id": "fr_en_706",
+	"from": "acheter",
+	"to": "buy"
+},
+{
+	"id": "fr_en_707",
+	"from": "augmenter",
+	"to": "raise"
+},
+{
+	"id": "fr_en_708",
+	"from": "résoudre",
+	"to": "solve"
+},
+{
+	"id": "fr_en_709",
+	"from": "métal",
+	"to": "metal"
+},
+{
+	"id": "fr_en_710",
+	"from": "si",
+	"to": "whether"
+},
+{
+	"id": "fr_en_711",
+	"from": "pousser",
+	"to": "push"
+},
+{
+	"id": "fr_en_712",
+	"from": "sept",
+	"to": "seven"
+},
+{
+	"id": "fr_en_713",
+	"from": "paragraphe",
+	"to": "paragraph"
+},
+{
+	"id": "fr_en_714",
+	"from": "troisième",
+	"to": "third"
+},
+{
+	"id": "fr_en_715",
+	"from": "doit",
+	"to": "shall"
+},
+{
+	"id": "fr_en_716",
+	"from": "en attente",
+	"to": "held"
+},
+{
+	"id": "fr_en_717",
+	"from": "cheveux",
+	"to": "hair"
+},
+{
+	"id": "fr_en_718",
+	"from": "décrire",
+	"to": "describe"
+},
+{
+	"id": "fr_en_719",
+	"from": "cuisinier",
+	"to": "cook"
+},
+{
+	"id": "fr_en_720",
+	"from": "étage",
+	"to": "floor"
+},
+{
+	"id": "fr_en_721",
+	"from": "chaque",
+	"to": "either"
+},
+{
+	"id": "fr_en_722",
+	"from": "résultat",
+	"to": "result"
+},
+{
+	"id": "fr_en_723",
+	"from": "brûler",
+	"to": "burn"
+},
+{
+	"id": "fr_en_724",
+	"from": "colline",
+	"to": "hill"
+},
+{
+	"id": "fr_en_725",
+	"from": "coffre-fort",
+	"to": "safe"
+},
+{
+	"id": "fr_en_726",
+	"from": "chat",
+	"to": "cat"
+},
+{
+	"id": "fr_en_727",
+	"from": "siècle",
+	"to": "century"
+},
+{
+	"id": "fr_en_728",
+	"from": "envisager",
+	"to": "consider"
+},
+{
+	"id": "fr_en_729",
+	"from": "type",
+	"to": "type"
+},
+{
+	"id": "fr_en_730",
+	"from": "droit",
+	"to": "law"
+},
+{
+	"id": "fr_en_731",
+	"from": "peu",
+	"to": "bit"
+},
+{
+	"id": "fr_en_732",
+	"from": "côte",
+	"to": "coast"
+},
+{
+	"id": "fr_en_733",
+	"from": "copie",
+	"to": "copy"
+},
+{
+	"id": "fr_en_734",
+	"from": "phrase",
+	"to": "phrase"
+},
+{
+	"id": "fr_en_735",
+	"from": "silencieux",
+	"to": "silent"
+},
+{
+	"id": "fr_en_736",
+	"from": "haut",
+	"to": "tall"
+},
+{
+	"id": "fr_en_737",
+	"from": "sable",
+	"to": "sand"
+},
+{
+	"id": "fr_en_738",
+	"from": "sol",
+	"to": "soil"
+},
+{
+	"id": "fr_en_739",
+	"from": "rouleau",
+	"to": "roll"
+},
+{
+	"id": "fr_en_740",
+	"from": "température",
+	"to": "temperature"
+},
+{
+	"id": "fr_en_741",
+	"from": "doigt",
+	"to": "finger"
+},
+{
+	"id": "fr_en_742",
+	"from": "industrie",
+	"to": "industry"
+},
+{
+	"id": "fr_en_743",
+	"from": "valeur",
+	"to": "value"
+},
+{
+	"id": "fr_en_744",
+	"from": "lutte",
+	"to": "fight"
+},
+{
+	"id": "fr_en_745",
+	"from": "mensonge",
+	"to": "lie"
+},
+{
+	"id": "fr_en_746",
+	"from": "battre",
+	"to": "beat"
+},
+{
+	"id": "fr_en_747",
+	"from": "exciter",
+	"to": "excite"
+},
+{
+	"id": "fr_en_748",
+	"from": "naturel",
+	"to": "natural"
+},
+{
+	"id": "fr_en_749",
+	"from": "vue",
+	"to": "view"
+},
+{
+	"id": "fr_en_750",
+	"from": "sens",
+	"to": "sense"
+},
+{
+	"id": "fr_en_751",
+	"from": "capital",
+	"to": "capital"
+},
+{
+	"id": "fr_en_752",
+	"from": "ne sera pas",
+	"to": "won’t"
+},
+{
+	"id": "fr_en_753",
+	"from": "chaise",
+	"to": "chair"
+},
+{
+	"id": "fr_en_754",
+	"from": "danger",
+	"to": "danger"
+},
+{
+	"id": "fr_en_755",
+	"from": "fruit",
+	"to": "fruit"
+},
+{
+	"id": "fr_en_756",
+	"from": "riche",
+	"to": "rich"
+},
+{
+	"id": "fr_en_757",
+	"from": "épais",
+	"to": "thick"
+},
+{
+	"id": "fr_en_758",
+	"from": "soldat",
+	"to": "soldier"
+},
+{
+	"id": "fr_en_759",
+	"from": "processus",
+	"to": "process"
+},
+{
+	"id": "fr_en_760",
+	"from": "fonctionner",
+	"to": "operate"
+},
+{
+	"id": "fr_en_761",
+	"from": "pratique",
+	"to": "practice"
+},
+{
+	"id": "fr_en_762",
+	"from": "séparé",
+	"to": "separate"
+},
+{
+	"id": "fr_en_763",
+	"from": "difficile",
+	"to": "difficult"
+},
+{
+	"id": "fr_en_764",
+	"from": "médecin",
+	"to": "doctor"
+},
+{
+	"id": "fr_en_765",
+	"from": "s’il vous plaît",
+	"to": "please"
+},
+{
+	"id": "fr_en_766",
+	"from": "protéger",
+	"to": "protect"
+},
+{
+	"id": "fr_en_767",
+	"from": "midi",
+	"to": "noon"
+},
+{
+	"id": "fr_en_768",
+	"from": "récolte",
+	"to": "crop"
+},
+{
+	"id": "fr_en_769",
+	"from": "moderne",
+	"to": "modern"
+},
+{
+	"id": "fr_en_770",
+	"from": "élément",
+	"to": "element"
+},
+{
+	"id": "fr_en_771",
+	"from": "frapper",
+	"to": "hit"
+},
+{
+	"id": "fr_en_772",
+	"from": "étudiant",
+	"to": "student"
+},
+{
+	"id": "fr_en_773",
+	"from": "coin",
+	"to": "corner"
+},
+{
+	"id": "fr_en_774",
+	"from": "partie",
+	"to": "party"
+},
+{
+	"id": "fr_en_775",
+	"from": "alimentation",
+	"to": "supply"
+},
+{
+	"id": "fr_en_776",
+	"from": "dont",
+	"to": "whose"
+},
+{
+	"id": "fr_en_777",
+	"from": "localiser",
+	"to": "locate"
+},
+{
+	"id": "fr_en_778",
+	"from": "anneau",
+	"to": "ring"
+},
+{
+	"id": "fr_en_779",
+	"from": "caractère",
+	"to": "character"
+},
+{
+	"id": "fr_en_780",
+	"from": "insecte",
+	"to": "insect"
+},
+{
+	"id": "fr_en_781",
+	"from": "pris",
+	"to": "caught"
+},
+{
+	"id": "fr_en_782",
+	"from": "période",
+	"to": "period"
+},
+{
+	"id": "fr_en_783",
+	"from": "indiquer",
+	"to": "indicate"
+},
+{
+	"id": "fr_en_784",
+	"from": "radio",
+	"to": "radio"
+},
+{
+	"id": "fr_en_785",
+	"from": "rayon",
+	"to": "spoke"
+},
+{
+	"id": "fr_en_786",
+	"from": "atome",
+	"to": "atom"
+},
+{
+	"id": "fr_en_787",
+	"from": "humain",
+	"to": "human"
+},
+{
+	"id": "fr_en_788",
+	"from": "histoire",
+	"to": "history"
+},
+{
+	"id": "fr_en_789",
+	"from": "effet",
+	"to": "effect"
+},
+{
+	"id": "fr_en_790",
+	"from": "électrique",
+	"to": "electric"
+},
+{
+	"id": "fr_en_791",
+	"from": "attendre",
+	"to": "expect"
+},
+{
+	"id": "fr_en_792",
+	"from": "os",
+	"to": "bone"
+},
+{
+	"id": "fr_en_793",
+	"from": "rail",
+	"to": "rail"
+},
+{
+	"id": "fr_en_794",
+	"from": "imaginer",
+	"to": "imagine"
+},
+{
+	"id": "fr_en_795",
+	"from": "fournir",
+	"to": "provide"
+},
+{
+	"id": "fr_en_796",
+	"from": "se mettre d’accord",
+	"to": "agree"
+},
+{
+	"id": "fr_en_797",
+	"from": "ainsi",
+	"to": "thus"
+},
+{
+	"id": "fr_en_798",
+	"from": "doux",
+	"to": "gentle"
+},
+{
+	"id": "fr_en_799",
+	"from": "femme",
+	"to": "woman"
+},
+{
+	"id": "fr_en_800",
+	"from": "capitaine",
+	"to": "captain"
+},
+{
+	"id": "fr_en_801",
+	"from": "deviner",
+	"to": "guess"
+},
+{
+	"id": "fr_en_802",
+	"from": "nécessaire",
+	"to": "necessary"
+},
+{
+	"id": "fr_en_803",
+	"from": "net",
+	"to": "sharp"
+},
+{
+	"id": "fr_en_804",
+	"from": "aile",
+	"to": "wing"
+},
+{
+	"id": "fr_en_805",
+	"from": "créer",
+	"to": "create"
+},
+{
+	"id": "fr_en_806",
+	"from": "voisin",
+	"to": "neighbor"
+},
+{
+	"id": "fr_en_807",
+	"from": "lavage",
+	"to": "wash"
+},
+{
+	"id": "fr_en_808",
+	"from": "chauve-souris",
+	"to": "bat"
+},
+{
+	"id": "fr_en_809",
+	"from": "plutôt",
+	"to": "rather"
+},
+{
+	"id": "fr_en_810",
+	"from": "foule",
+	"to": "crowd"
+},
+{
+	"id": "fr_en_811",
+	"from": "blé",
+	"to": "corn"
+},
+{
+	"id": "fr_en_812",
+	"from": "comparer",
+	"to": "compare"
+},
+{
+	"id": "fr_en_813",
+	"from": "poème",
+	"to": "poem"
+},
+{
+	"id": "fr_en_814",
+	"from": "chaîne",
+	"to": "string"
+},
+{
+	"id": "fr_en_815",
+	"from": "cloche",
+	"to": "bell"
+},
+{
+	"id": "fr_en_816",
+	"from": "dépendre",
+	"to": "depend"
+},
+{
+	"id": "fr_en_817",
+	"from": "viande",
+	"to": "meat"
+},
+{
+	"id": "fr_en_818",
+	"from": "rub",
+	"to": "rub"
+},
+{
+	"id": "fr_en_819",
+	"from": "tube",
+	"to": "tube"
+},
+{
+	"id": "fr_en_820",
+	"from": "célèbre",
+	"to": "famous"
+},
+{
+	"id": "fr_en_821",
+	"from": "dollar",
+	"to": "dollar"
+},
+{
+	"id": "fr_en_822",
+	"from": "courant",
+	"to": "stream"
+},
+{
+	"id": "fr_en_823",
+	"from": "peur",
+	"to": "fear"
+},
+{
+	"id": "fr_en_824",
+	"from": "vue",
+	"to": "sight"
+},
+{
+	"id": "fr_en_825",
+	"from": "mince",
+	"to": "thin"
+},
+{
+	"id": "fr_en_826",
+	"from": "triangle",
+	"to": "triangle"
+},
+{
+	"id": "fr_en_827",
+	"from": "planète",
+	"to": "planet"
+},
+{
+	"id": "fr_en_828",
+	"from": "se dépêcher",
+	"to": "hurry"
+},
+{
+	"id": "fr_en_829",
+	"from": "chef",
+	"to": "chief"
+},
+{
+	"id": "fr_en_830",
+	"from": "colonie",
+	"to": "colony"
+},
+{
+	"id": "fr_en_831",
+	"from": "horloge",
+	"to": "clock"
+},
+{
+	"id": "fr_en_832",
+	"from": "mine",
+	"to": "mine"
+},
+{
+	"id": "fr_en_833",
+	"from": "lien",
+	"to": "tie"
+},
+{
+	"id": "fr_en_834",
+	"from": "entrer",
+	"to": "enter"
+},
+{
+	"id": "fr_en_835",
+	"from": "majeur",
+	"to": "major"
+},
+{
+	"id": "fr_en_836",
+	"from": "frais",
+	"to": "fresh"
+},
+{
+	"id": "fr_en_837",
+	"from": "recherche",
+	"to": "search"
+},
+{
+	"id": "fr_en_838",
+	"from": "envoyer",
+	"to": "send"
+},
+{
+	"id": "fr_en_839",
+	"from": "jaune",
+	"to": "yellow"
+},
+{
+	"id": "fr_en_840",
+	"from": "pistolet",
+	"to": "gun"
+},
+{
+	"id": "fr_en_841",
+	"from": "permettre",
+	"to": "allow"
+},
+{
+	"id": "fr_en_842",
+	"from": "impression",
+	"to": "print"
+},
+{
+	"id": "fr_en_843",
+	"from": "mort",
+	"to": "dead"
+},
+{
+	"id": "fr_en_844",
+	"from": "place",
+	"to": "spot"
+},
+{
+	"id": "fr_en_845",
+	"from": "désert",
+	"to": "desert"
+},
+{
+	"id": "fr_en_846",
+	"from": "costume",
+	"to": "suit"
+},
+{
+	"id": "fr_en_847",
+	"from": "courant",
+	"to": "current"
+},
+{
+	"id": "fr_en_848",
+	"from": "ascenseur",
+	"to": "lift"
+},
+{
+	"id": "fr_en_849",
+	"from": "rose",
+	"to": "rose"
+},
+{
+	"id": "fr_en_850",
+	"from": "arriver",
+	"to": "arrive"
+},
+{
+	"id": "fr_en_851",
+	"from": "maître",
+	"to": "master"
+},
+{
+	"id": "fr_en_852",
+	"from": "piste",
+	"to": "track"
+},
+{
+	"id": "fr_en_853",
+	"from": "mère",
+	"to": "parent"
+},
+{
+	"id": "fr_en_854",
+	"from": "rivage",
+	"to": "shore"
+},
+{
+	"id": "fr_en_855",
+	"from": "division",
+	"to": "division"
+},
+{
+	"id": "fr_en_856",
+	"from": "feuille",
+	"to": "sheet"
+},
+{
+	"id": "fr_en_857",
+	"from": "substance",
+	"to": "substance"
+},
+{
+	"id": "fr_en_858",
+	"from": "favoriser",
+	"to": "favor"
+},
+{
+	"id": "fr_en_859",
+	"from": "relier",
+	"to": "connect"
+},
+{
+	"id": "fr_en_860",
+	"from": "poste",
+	"to": "post"
+},
+{
+	"id": "fr_en_861",
+	"from": "passer",
+	"to": "spend"
+},
+{
+	"id": "fr_en_862",
+	"from": "corde",
+	"to": "chord"
+},
+{
+	"id": "fr_en_863",
+	"from": "graisse",
+	"to": "fat"
+},
+{
+	"id": "fr_en_864",
+	"from": "heureux",
+	"to": "glad"
+},
+{
+	"id": "fr_en_865",
+	"from": "original",
+	"to": "original"
+},
+{
+	"id": "fr_en_866",
+	"from": "part",
+	"to": "share"
+},
+{
+	"id": "fr_en_867",
+	"from": "station",
+	"to": "station"
+},
+{
+	"id": "fr_en_868",
+	"from": "papa",
+	"to": "dad"
+},
+{
+	"id": "fr_en_869",
+	"from": "pain",
+	"to": "bread"
+},
+{
+	"id": "fr_en_870",
+	"from": "charger",
+	"to": "charge"
+},
+{
+	"id": "fr_en_871",
+	"from": "propre",
+	"to": "proper"
+},
+{
+	"id": "fr_en_872",
+	"from": "bar",
+	"to": "bar"
+},
+{
+	"id": "fr_en_873",
+	"from": "proposition",
+	"to": "offer"
+},
+{
+	"id": "fr_en_874",
+	"from": "segment",
+	"to": "segment"
+},
+{
+	"id": "fr_en_875",
+	"from": "esclave",
+	"to": "slave"
+},
+{
+	"id": "fr_en_876",
+	"from": "canard",
+	"to": "duck"
+},
+{
+	"id": "fr_en_877",
+	"from": "instant",
+	"to": "instant"
+},
+{
+	"id": "fr_en_878",
+	"from": "marché",
+	"to": "market"
+},
+{
+	"id": "fr_en_879",
+	"from": "degré",
+	"to": "degree"
+},
+{
+	"id": "fr_en_880",
+	"from": "peupler",
+	"to": "populate"
+},
+{
+	"id": "fr_en_881",
+	"from": "poussin",
+	"to": "chick"
+},
+{
+	"id": "fr_en_882",
+	"from": "cher",
+	"to": "dear"
+},
+{
+	"id": "fr_en_883",
+	"from": "ennemi",
+	"to": "enemy"
+},
+{
+	"id": "fr_en_884",
+	"from": "répondre",
+	"to": "reply"
+},
+{
+	"id": "fr_en_885",
+	"from": "boisson",
+	"to": "drink"
+},
+{
+	"id": "fr_en_886",
+	"from": "se produire",
+	"to": "occur"
+},
+{
+	"id": "fr_en_887",
+	"from": "support",
+	"to": "support"
+},
+{
+	"id": "fr_en_888",
+	"from": "discours",
+	"to": "speech"
+},
+{
+	"id": "fr_en_889",
+	"from": "nature",
+	"to": "nature"
+},
+{
+	"id": "fr_en_890",
+	"from": "gamme",
+	"to": "range"
+},
+{
+	"id": "fr_en_891",
+	"from": "vapeur",
+	"to": "steam"
+},
+{
+	"id": "fr_en_892",
+	"from": "mouvement",
+	"to": "motion"
+},
+{
+	"id": "fr_en_893",
+	"from": "chemin",
+	"to": "path"
+},
+{
+	"id": "fr_en_894",
+	"from": "liquide",
+	"to": "liquid"
+},
+{
+	"id": "fr_en_895",
+	"from": "enregistrer",
+	"to": "log"
+},
+{
+	"id": "fr_en_896",
+	"from": "signifiait",
+	"to": "meant"
+},
+{
+	"id": "fr_en_897",
+	"from": "quotient",
+	"to": "quotient"
+},
+{
+	"id": "fr_en_898",
+	"from": "dents",
+	"to": "teeth"
+},
+{
+	"id": "fr_en_899",
+	"from": "coquille",
+	"to": "shell"
+},
+{
+	"id": "fr_en_900",
+	"from": "cou",
+	"to": "neck"
+},
+{
+	"id": "fr_en_901",
+	"from": "oxygène",
+	"to": "oxygen"
+},
+{
+	"id": "fr_en_902",
+	"from": "sucre",
+	"to": "sugar"
+},
+{
+	"id": "fr_en_903",
+	"from": "décès",
+	"to": "death"
+},
+{
+	"id": "fr_en_904",
+	"from": "assez",
+	"to": "pretty"
+},
+{
+	"id": "fr_en_905",
+	"from": "compétence",
+	"to": "skill"
+},
+{
+	"id": "fr_en_906",
+	"from": "femmes",
+	"to": "women"
+},
+{
+	"id": "fr_en_907",
+	"from": "saison",
+	"to": "season"
+},
+{
+	"id": "fr_en_908",
+	"from": "solution",
+	"to": "solution"
+},
+{
+	"id": "fr_en_909",
+	"from": "aimant",
+	"to": "magnet"
+},
+{
+	"id": "fr_en_910",
+	"from": "argent",
+	"to": "silver"
+},
+{
+	"id": "fr_en_911",
+	"from": "merci",
+	"to": "thank"
+},
+{
+	"id": "fr_en_912",
+	"from": "branche",
+	"to": "branch"
+},
+{
+	"id": "fr_en_913",
+	"from": "rencontre",
+	"to": "match"
+},
+{
+	"id": "fr_en_914",
+	"from": "suffixe",
+	"to": "suffix"
+},
+{
+	"id": "fr_en_915",
+	"from": "particulièrement",
+	"to": "especially"
+},
+{
+	"id": "fr_en_916",
+	"from": "figue",
+	"to": "fig"
+},
+{
+	"id": "fr_en_917",
+	"from": "peur",
+	"to": "afraid"
+},
+{
+	"id": "fr_en_918",
+	"from": "énorme",
+	"to": "huge"
+},
+{
+	"id": "fr_en_919",
+	"from": "sœur",
+	"to": "sister"
+},
+{
+	"id": "fr_en_920",
+	"from": "acier",
+	"to": "steel"
+},
+{
+	"id": "fr_en_921",
+	"from": "discuter",
+	"to": "discuss"
+},
+{
+	"id": "fr_en_922",
+	"from": "avant",
+	"to": "forward"
+},
+{
+	"id": "fr_en_923",
+	"from": "similaire",
+	"to": "similar"
+},
+{
+	"id": "fr_en_924",
+	"from": "guider",
+	"to": "guide"
+},
+{
+	"id": "fr_en_925",
+	"from": "expérience",
+	"to": "experience"
+},
+{
+	"id": "fr_en_926",
+	"from": "score",
+	"to": "score"
+},
+{
+	"id": "fr_en_927",
+	"from": "pomme",
+	"to": "apple"
+},
+{
+	"id": "fr_en_928",
+	"from": "acheté",
+	"to": "bought"
+},
+{
+	"id": "fr_en_929",
+	"from": "LED",
+	"to": "led"
+},
+{
+	"id": "fr_en_930",
+	"from": "pas",
+	"to": "pitch"
+},
+{
+	"id": "fr_en_931",
+	"from": "manteau",
+	"to": "coat"
+},
+{
+	"id": "fr_en_932",
+	"from": "masse",
+	"to": "mass"
+},
+{
+	"id": "fr_en_933",
+	"from": "carte",
+	"to": "card"
+},
+{
+	"id": "fr_en_934",
+	"from": "bande",
+	"to": "band"
+},
+{
+	"id": "fr_en_935",
+	"from": "corde",
+	"to": "rope"
+},
+{
+	"id": "fr_en_936",
+	"from": "glissement",
+	"to": "slip"
+},
+{
+	"id": "fr_en_937",
+	"from": "gagner",
+	"to": "win"
+},
+{
+	"id": "fr_en_938",
+	"from": "rêver",
+	"to": "dream"
+},
+{
+	"id": "fr_en_939",
+	"from": "soirée",
+	"to": "evening"
+},
+{
+	"id": "fr_en_940",
+	"from": "condition",
+	"to": "condition"
+},
+{
+	"id": "fr_en_941",
+	"from": "alimentation",
+	"to": "feed"
+},
+{
+	"id": "fr_en_942",
+	"from": "outil",
+	"to": "tool"
+},
+{
+	"id": "fr_en_943",
+	"from": "total",
+	"to": "total"
+},
+{
+	"id": "fr_en_944",
+	"from": "de base",
+	"to": "basic"
+},
+{
+	"id": "fr_en_945",
+	"from": "odeur",
+	"to": "smell"
+},
+{
+	"id": "fr_en_946",
+	"from": "vallée",
+	"to": "valley"
+},
+{
+	"id": "fr_en_947",
+	"from": "ni",
+	"to": "nor"
+},
+{
+	"id": "fr_en_948",
+	"from": "double",
+	"to": "double"
+},
+{
+	"id": "fr_en_949",
+	"from": "siège",
+	"to": "seat"
+},
+{
+	"id": "fr_en_950",
+	"from": "continuer",
+	"to": "continue"
+},
+{
+	"id": "fr_en_951",
+	"from": "bloc",
+	"to": "block"
+},
+{
+	"id": "fr_en_952",
+	"from": "graphique",
+	"to": "chart"
+},
+{
+	"id": "fr_en_953",
+	"from": "chapeau",
+	"to": "hat"
+},
+{
+	"id": "fr_en_954",
+	"from": "vendre",
+	"to": "sell"
+},
+{
+	"id": "fr_en_955",
+	"from": "succès",
+	"to": "success"
+},
+{
+	"id": "fr_en_956",
+	"from": "entreprise",
+	"to": "company"
+},
+{
+	"id": "fr_en_957",
+	"from": "soustraire",
+	"to": "subtract"
+},
+{
+	"id": "fr_en_958",
+	"from": "événement",
+	"to": "event"
+},
+{
+	"id": "fr_en_959",
+	"from": "particulier",
+	"to": "particular"
+},
+{
+	"id": "fr_en_960",
+	"from": "accord",
+	"to": "deal"
+},
+{
+	"id": "fr_en_961",
+	"from": "baignade",
+	"to": "swim"
+},
+{
+	"id": "fr_en_962",
+	"from": "terme",
+	"to": "term"
+},
+{
+	"id": "fr_en_963",
+	"from": "opposé",
+	"to": "opposite"
+},
+{
+	"id": "fr_en_964",
+	"from": "femme",
+	"to": "wife"
+},
+{
+	"id": "fr_en_965",
+	"from": "chaussure",
+	"to": "shoe"
+},
+{
+	"id": "fr_en_966",
+	"from": "épaule",
+	"to": "shoulder"
+},
+{
+	"id": "fr_en_967",
+	"from": "propagation",
+	"to": "spread"
+},
+{
+	"id": "fr_en_968",
+	"from": "organiser",
+	"to": "arrange"
+},
+{
+	"id": "fr_en_969",
+	"from": "camp",
+	"to": "camp"
+},
+{
+	"id": "fr_en_970",
+	"from": "inventer",
+	"to": "invent"
+},
+{
+	"id": "fr_en_971",
+	"from": "coton",
+	"to": "cotton"
+},
+{
+	"id": "fr_en_972",
+	"from": "né",
+	"to": "born"
+},
+{
+	"id": "fr_en_973",
+	"from": "déterminer",
+	"to": "determine"
+},
+{
+	"id": "fr_en_974",
+	"from": "litre",
+	"to": "quart"
+},
+{
+	"id": "fr_en_975",
+	"from": "neuf",
+	"to": "nine"
+},
+{
+	"id": "fr_en_976",
+	"from": "camion",
+	"to": "truck"
+},
+{
+	"id": "fr_en_977",
+	"from": "bruit",
+	"to": "noise"
+},
+{
+	"id": "fr_en_978",
+	"from": "niveau",
+	"to": "level"
+},
+{
+	"id": "fr_en_979",
+	"from": "chance",
+	"to": "chance"
+},
+{
+	"id": "fr_en_980",
+	"from": "recueillir",
+	"to": "gather"
+},
+{
+	"id": "fr_en_981",
+	"from": "boutique",
+	"to": "shop"
+},
+{
+	"id": "fr_en_982",
+	"from": "tronçon",
+	"to": "stretch"
+},
+{
+	"id": "fr_en_983",
+	"from": "jeter",
+	"to": "throw"
+},
+{
+	"id": "fr_en_984",
+	"from": "éclat",
+	"to": "shine"
+},
+{
+	"id": "fr_en_985",
+	"from": "propriété",
+	"to": "property"
+},
+{
+	"id": "fr_en_986",
+	"from": "colonne",
+	"to": "column"
+},
+{
+	"id": "fr_en_987",
+	"from": "molécule",
+	"to": "molecule"
+},
+{
+	"id": "fr_en_988",
+	"from": "sélectionner",
+	"to": "select"
+},
+{
+	"id": "fr_en_989",
+	"from": "mal",
+	"to": "wrong"
+},
+{
+	"id": "fr_en_990",
+	"from": "gris",
+	"to": "gray"
+},
+{
+	"id": "fr_en_991",
+	"from": "répétition",
+	"to": "repeat"
+},
+{
+	"id": "fr_en_992",
+	"from": "exiger",
+	"to": "require"
+},
+{
+	"id": "fr_en_993",
+	"from": "large",
+	"to": "broad"
+},
+{
+	"id": "fr_en_994",
+	"from": "préparer",
+	"to": "prepare"
+},
+{
+	"id": "fr_en_995",
+	"from": "sel",
+	"to": "salt"
+},
+{
+	"id": "fr_en_996",
+	"from": "nez",
+	"to": "nose"
+},
+{
+	"id": "fr_en_997",
+	"from": "pluriel",
+	"to": "plural"
+},
+{
+	"id": "fr_en_998",
+	"from": "colère",
+	"to": "anger"
+},
+{
+	"id": "fr_en_999",
+	"from": "revendication",
+	"to": "claim"
+},
+{
+	"id": "fr_en_1000",
+	"from": "continent",
+	"to": "continent"
+}]
